@@ -1,3 +1,11 @@
+## What is Octopress Chinese?
+
+This fork aims to provide a localized simplified Chinese version of Ocotpress. Everything is the same except the text are all translated into simplified Chinese. We aim to be in line with the main repo.
+
+## 什么是Octopress Chinese?
+
+简单的说，就是一个中文版的Octopress。主要的数码都与原本的一样。就是翻成中文。这个版本是简体字的。
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
