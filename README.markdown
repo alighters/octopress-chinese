@@ -1,3 +1,5 @@
+![Octopress chinese locale screenshot](https://s3.amazonaws.com/static.octopressthemes.com/blog/octopress-chinese.png)
+
 ## What is Octopress Chinese?
 
 This fork aims to provide a localized simplified Chinese version of Ocotpress. Everything is the same except the text are all translated into simplified Chinese. We aim to be in line with the main repo.
